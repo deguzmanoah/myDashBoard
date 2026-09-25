@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /dcharge-qr
+
+# Allow all other pages
+Allow: /
+
+# Sitemap (update with your actual sitemap URL when available)
+# Sitemap: https://www.dchargeapp.com/sitemap.xml
